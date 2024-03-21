@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Computational Biologist, Biochemist, ML Expert
 ----------------------------------------------
-[wwww.KanferGil.com](https://gkanfer.github.io/kanferg_web/)
+[wwww.kanfergil.com](https://gkanfer.github.io/kanferg_web/)
 Hey there! I'm a passionate scientist with over a decade under my belt in data science, machine learning, and the fascinating realms of computer vision and genomics. My journey has led me to pioneer a platform that melds deep convolutional network tech with automated microscopy, making some cool functional genomic discoveries along the way. At heart, I'm all about using the power of machine learning and computational wizardry to make a positive impact on human health. Let's explore and innovate together!
 
 * 🌍  I'm based in Greater Washington DC area
